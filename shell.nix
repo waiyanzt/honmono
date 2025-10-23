@@ -8,7 +8,6 @@ pkgs.mkShell {
       matplotlib
       scikit-learn
       jupyter
-      kaggle
     ]))
     git
   ];
