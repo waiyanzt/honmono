@@ -160,7 +160,7 @@ honmono/
 
 ```bash
 # Pull latest changes
-git pull origin main
+git pull origin master 
 
 # Create feature branch
 git checkout -b feature/your-feature-name
